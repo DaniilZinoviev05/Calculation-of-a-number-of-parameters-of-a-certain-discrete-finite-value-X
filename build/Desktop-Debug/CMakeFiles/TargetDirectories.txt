@@ -1,0 +1,9 @@
+/home/daniil/untitled/build/Desktop-Debug/CMakeFiles/untitled.dir
+/home/daniil/untitled/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/daniil/untitled/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/daniil/untitled/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/daniil/untitled/build/Desktop-Debug/CMakeFiles/install.dir
+/home/daniil/untitled/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/daniil/untitled/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/daniil/untitled/build/Desktop-Debug/CMakeFiles/untitled_autogen_timestamp_deps.dir
+/home/daniil/untitled/build/Desktop-Debug/CMakeFiles/untitled_autogen.dir

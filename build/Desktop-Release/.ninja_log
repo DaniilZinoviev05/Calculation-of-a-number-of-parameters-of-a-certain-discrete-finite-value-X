@@ -1,0 +1,10 @@
+# ninja log v5
+5	23	1727034213565138369	untitled_autogen/timestamp	e9f8516cb73e1700
+5	23	1727034213565138369	untitled_autogen/mocs_compilation.cpp	e9f8516cb73e1700
+25	4790	1727034222905236158	CMakeFiles/untitled.dir/mainwindow.cpp.o	f8675ff50826fa42
+5	23	1727034213565138369	/home/daniil/untitled/build/Desktop-Release/untitled_autogen/timestamp	e9f8516cb73e1700
+5	23	1727034213565138369	/home/daniil/untitled/build/Desktop-Release/untitled_autogen/mocs_compilation.cpp	e9f8516cb73e1700
+992	2290	1727032842217264224	CMakeFiles/untitled.dir/main.cpp.o	7facff427bc10e9d
+992	11489	1727032851414082525	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.o	8ea4859f3d17e978
+25	27741	1727032893524776205	CMakeFiles/untitled.dir/qcustomplot.cpp.o	9808762ea2512753
+4790	5033	1727034223148572043	untitled	bcbe9f494e55ede9
